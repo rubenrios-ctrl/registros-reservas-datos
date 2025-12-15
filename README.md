@@ -2,7 +2,7 @@
 
 2.- Abrir en eclipse a traves de la pestaña "file -> Open Projects from file system"
 
-3.- Dale al boton "Directory" y selecciona la carpeta descargada
+3.- Dale al boton "Archive" y selecciona el .zip descargado
 
 4.- Dale a finish
 
